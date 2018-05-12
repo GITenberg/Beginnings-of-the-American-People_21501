@@ -21,6 +21,8 @@ creator:
 description: The Shelf2Life Colonial America (1492-1763) Collection is an intriguing
   set of pre-1923 volumes chronicling the people and events that shaped the United
   States in its early years.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21501#Beginnings-of-the-American-People
 gutenberg_issued: '2007-05-16'
 gutenberg_type: Text
 identifiers:
